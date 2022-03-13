@@ -9,3 +9,4 @@ for i in name:
     else:
         output = output + i 
 print (output)
+## Hi Looie
